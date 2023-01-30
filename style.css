@@ -1,6 +1,12 @@
 #container {
     height: 600px;
     width: 600px;
+    position: absolute;
+}
+
+#describeGrid {
+    position: relative;
+    left: 600px;
 }
 
 button {
